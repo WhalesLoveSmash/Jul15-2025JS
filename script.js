@@ -1,1 +1,1 @@
-console.log("JS file is working!");
+console.log("Script loaded!");
